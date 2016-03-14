@@ -1,0 +1,18 @@
+h1{
+	color: red;
+	background-color: black;
+	font-family: helvetica;
+}
+
+body{
+	position: fixed;
+	left: 150px;
+	right: 150px;
+}
+
+ul{
+	font-family: courier;
+	position: fixed;
+	left: 500px;
+	right: 500px;
+}
